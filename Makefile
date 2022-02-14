@@ -22,7 +22,7 @@
 
 IMAGE_REPO=vindevoy
 IMAGE_NAME=ubuntu-base
-IMAGE_VERSION=20.04
+IMAGE_VERSION=20.04-0
 
 
 ######################
